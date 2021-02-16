@@ -8,7 +8,7 @@ Para ejecutarlo en al terminal de linux:
 
 Dentro del programa:
 
-1.Pulse c para compilar o d para descomprimir.
+1.Pulse 1 para compilar o 2 para descomprimir.
 
 2. Para comprimir un archivo(txt o imagen), se debe proveer el path del directorio donde se encuentre, 
 
