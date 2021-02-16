@@ -2,8 +2,8 @@ Bienvenido a nuestro proyecto del algoritmo LZW.
 
 Para ejecutarlo en al terminal de linux:
 1. Es necesario tener instalado java 15.
-2. Para compilar, escriba javac Main.java .
-3. Para correrlo, escriba java Main .
+2. Para compilar, escriba javac main.java .
+3. Para correrlo, escriba java main .
 
 
 Dentro del programa:
