@@ -48,7 +48,7 @@ public class main {
                     System.out.println("No se encuentra el archivo a descomprimir.");
                 }
             default:
-                System.out.println("Nada se hizo.");
+                System.out.println("No se comprimio/descomprimio nada distinguido.");
         }
     }
 }
