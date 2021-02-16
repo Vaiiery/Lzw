@@ -31,9 +31,9 @@ Dentro del programa:
  
     ejemplo:
     
-       Linux: /home/lramirez/SO1/LZW/prueba.lzw
+          Linux: /home/lramirez/SO1/LZW/prueba.lzw
        
-       Windows: C:\Users\luis\Desktop\prueba.lzw
+         Windows: C:\Users\luis\Desktop\prueba.lzw
        
     Asi como un path del directorio a donde se va a guardar el archivo(agregar extension)
     
